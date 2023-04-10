@@ -74,33 +74,12 @@ public class TesteTarget {
         System.out.println("String invertida: " + strInvertida);
     }
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     
     public static void main(String[] args) {
         //Local que será chamado todos os exercícicos
         System.out.println("--------EXERCÍCIO 02-------");
         Exercicio02();
-        System.out.println("--------EXERCÍCIO 03-------");
-        Exercicio03();
         System.out.println("--------EXERCÍCIO 04-------");
         Exercicio04();
         System.out.println("--------EXERCÍCIO 05-------");
